@@ -41,8 +41,7 @@ ext {
 
 dependencies {
     // Layer SDK
-    compile('com.layer.sdk:layer-sdk:0.22.0') {
-        exclude group: 'com.google.android.gms', module: 'play-services-gcm'
+    compile ('com.layer.sdk:layer-sdk:0.23.0') {
         exclude group: 'com.google.firebase', module: 'firebase-messaging'
     }
     compile 'org.slf4j:slf4j-nop:1.7.2'
