@@ -6,7 +6,7 @@
   * Updating to Layer SDK 0.23.0 (FCM support)
   * Compile and target SDK set to API 24
   * Support library versions are now 24.2.1
-  * Google play services location is updated to 9.4.0
+  * Google play services location is updated to 9.6.1
 
 ### Migration Guide
   * There are no API changes in Atlas directly. Please follow the Migration Guide for Layer SDK 0.23.0.
